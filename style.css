@@ -8,3 +8,4 @@ color: blue;
 	text-decoration: none;
 	color: #536482;		/* This is a comment, and this color is a greyish-blue */
 }
+document.body.style.backgroundImage = "url('http://cdn.wccftech.com/wp-content/uploads/2015/12/patch-1.2.png')";
